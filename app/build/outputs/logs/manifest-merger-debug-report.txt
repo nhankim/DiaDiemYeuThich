@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f0ce2596592f1ec4c7ac5b3a9e7f23eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fd02768abc83c1c56528e052710b293b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93174744a9ec17f3d5b6e9eb723de9f6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\02dd89cd8a2ac46591285f5cba0b8719\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ed409961db629b696bb4588797e0d96b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\8b22f3c804938449abe3d23ee3f8dde8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cb1dbba7a88e6bf9f7cf0072d0b2f801\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1aaa546264a0ac73358c492e3820277b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0321359362f648fc68632e8fc72ec6fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a3f06d471f4be2064f7e0a42dad52aed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a983f1de471084af32f6fb9c0a5de7d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bdcb16dc24e1d4977182a30049a9efaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\15bc7e25d2908446f0f38c3d06dddc15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdd4fb8149701ee630c818b6d592115f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\590c547f834de3aede5e08edef64db93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\491bced7886a930072e6837162b47e18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aa166233ee7f2dda8edd1e4a71cbc22b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c0d4b7b1d33a5e754842fa1c8dc2a425\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\74859ac06f6eaa338db6a01c19ae06d7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dda038efb9a7e76aa6ea0a939599ac82\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35edb921fa68d092d26e3ec2eb9f1966\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10c94d88b5569a80d6f9dbff513693c7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:10:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93174744a9ec17f3d5b6e9eb723de9f6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93174744a9ec17f3d5b6e9eb723de9f6\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\02dd89cd8a2ac46591285f5cba0b8719\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\02dd89cd8a2ac46591285f5cba0b8719\AndroidManifest.xml:7:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ed409961db629b696bb4588797e0d96b\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ed409961db629b696bb4588797e0d96b\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\8b22f3c804938449abe3d23ee3f8dde8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\8b22f3c804938449abe3d23ee3f8dde8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cb1dbba7a88e6bf9f7cf0072d0b2f801\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cb1dbba7a88e6bf9f7cf0072d0b2f801\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1aaa546264a0ac73358c492e3820277b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1aaa546264a0ac73358c492e3820277b\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:16:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:17:9-19:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ed409961db629b696bb4588797e0d96b\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ed409961db629b696bb4588797e0d96b\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1aaa546264a0ac73358c492e3820277b\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1aaa546264a0ac73358c492e3820277b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:18:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:20:9-22:71
+	android:value
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:22:13-68
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:21:13-58
+activity#com.example.administrator.diadiemyeuthich.activity.SplashActivity
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:24:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.administrator.diadiemyeuthich.activity.CategoryActivity
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:31:9-62
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:31:19-60
+activity#com.example.administrator.diadiemyeuthich.activity.PlaceActivity
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:32:19-57
+activity#com.example.administrator.diadiemyeuthich.activity.DetailPlaceActivity
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:33:9-66
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:33:19-63
+activity#com.example.administrator.diadiemyeuthich.activity.AddNewPlaceActivity
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:34:9-66
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:34:19-63
+activity#com.example.administrator.diadiemyeuthich.activity.MapsActivity
+ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:35:9-59
+	android:name
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml:35:19-56
+uses-sdk
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f0ce2596592f1ec4c7ac5b3a9e7f23eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f0ce2596592f1ec4c7ac5b3a9e7f23eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fd02768abc83c1c56528e052710b293b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fd02768abc83c1c56528e052710b293b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93174744a9ec17f3d5b6e9eb723de9f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\93174744a9ec17f3d5b6e9eb723de9f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\02dd89cd8a2ac46591285f5cba0b8719\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\02dd89cd8a2ac46591285f5cba0b8719\AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ed409961db629b696bb4588797e0d96b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\ed409961db629b696bb4588797e0d96b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\8b22f3c804938449abe3d23ee3f8dde8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\8b22f3c804938449abe3d23ee3f8dde8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cb1dbba7a88e6bf9f7cf0072d0b2f801\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\cb1dbba7a88e6bf9f7cf0072d0b2f801\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1aaa546264a0ac73358c492e3820277b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1aaa546264a0ac73358c492e3820277b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0321359362f648fc68632e8fc72ec6fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0321359362f648fc68632e8fc72ec6fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a3f06d471f4be2064f7e0a42dad52aed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a3f06d471f4be2064f7e0a42dad52aed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a983f1de471084af32f6fb9c0a5de7d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a983f1de471084af32f6fb9c0a5de7d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bdcb16dc24e1d4977182a30049a9efaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bdcb16dc24e1d4977182a30049a9efaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\15bc7e25d2908446f0f38c3d06dddc15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\15bc7e25d2908446f0f38c3d06dddc15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdd4fb8149701ee630c818b6d592115f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bdd4fb8149701ee630c818b6d592115f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\590c547f834de3aede5e08edef64db93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\590c547f834de3aede5e08edef64db93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\491bced7886a930072e6837162b47e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\491bced7886a930072e6837162b47e18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aa166233ee7f2dda8edd1e4a71cbc22b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aa166233ee7f2dda8edd1e4a71cbc22b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c0d4b7b1d33a5e754842fa1c8dc2a425\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c0d4b7b1d33a5e754842fa1c8dc2a425\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\74859ac06f6eaa338db6a01c19ae06d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\74859ac06f6eaa338db6a01c19ae06d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dda038efb9a7e76aa6ea0a939599ac82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dda038efb9a7e76aa6ea0a939599ac82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35edb921fa68d092d26e3ec2eb9f1966\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35edb921fa68d092d26e3ec2eb9f1966\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10c94d88b5569a80d6f9dbff513693c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10c94d88b5569a80d6f9dbff513693c7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Downloads\Compressed\DiaDiemYeuThich-20180709T165247Z-001\DiaDiemYeuThich\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\eefb2b185e2b79d64e9557d25b6dc74f\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\12517144a1e270aa615eabb3199fcb46\AndroidManifest.xml:24:13-79

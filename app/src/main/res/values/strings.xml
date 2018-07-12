@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiaDiemYeuThich</string>
+    <string name="no_data">Không có dữ liệu</string>
+    <string name="show_all_places">Show All Places On Map</string>
+    <string name="api_key">AIzaSyBGlqGDVDxU0qrdQiUXcJPOnADOlZNoHIc</string>
+    <string name="base_url">https://maps.googleapis.com/maps/api</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

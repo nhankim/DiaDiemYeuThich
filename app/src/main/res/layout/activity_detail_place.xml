@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.DetailPlaceActivity"
+    android:weightSum="6"
+    android:background="#a8ff78">
+
+    <LinearLayout
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/imgDetailPlace"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:src="@mipmap/ic_launcher"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txtPlaceDetailName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Name:"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/txtPlaceAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Địa chỉ:"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/txtPlaceDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Mô tả:"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:weightSum="2">
+        <ImageButton
+            android:id="@+id/btnDeletePlace"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="?android:selectableItemBackground"
+            android:src="@drawable/delete"/>
+        <ImageButton
+            android:id="@+id/btnEditPlace"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="?android:selectableItemBackground"
+            android:src="@drawable/edit"/>
+    </LinearLayout>
+</LinearLayout>
